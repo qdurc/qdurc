@@ -25,8 +25,8 @@
           Courses: {
                                 JS: "GlobalMentoring",
                                 PY, SQL: "GlobalMentoring",
-                                Complete_web_development: "GlobalMentoring",
-                                mentor: "Ubaldo Acosta"
+                                Complete_web_development: "CodeCreator",
+                                mentor: "Ubaldo Acosta, Juan De la torre"
                               }
       
  ````
