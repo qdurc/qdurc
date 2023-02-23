@@ -20,13 +20,15 @@
 ```javascript
         const Edu = {
           pronouns: "he" | "him",
-          code: [Javascript, Typescript, HTML, CSS, Arduino, Python, SQL],
+          code: [Javascript, Typescript, HTML, CSS, Arduino, Python, SQL, C#],
           tools: [React, Nodejs, Pip3, Styled-Components, NumPy, Tinkercad],
           Courses: {
                                 JS: "GlobalMentoring",
                                 PY, SQL: "GlobalMentoring",
+                                C#: "Intec"
                                 Complete_web_development: "CodeCreator",
-                                mentor: "Ubaldo Acosta, Juan De la torre"
+                                mentor: "Ubaldo Acosta, Juan De la torre, 
+                                Joel Jiménez"
                               }
       
  ````
@@ -43,6 +45,8 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40"/>&nbsp;
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" tittle="PostgreSQL" width="40" height="40"/>&nbsp;
+            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" 
+            tittle="csharp" width="40" height="40"/>&nbsp;
         </div>
     </div> 
   
