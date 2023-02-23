@@ -21,15 +21,14 @@
         const Edu = {
           pronouns: "he" | "him",
           code: [Javascript, Typescript, HTML, CSS, Arduino, Python, SQL, C#],
-          tools: [React, Nodejs, Pip3, Styled-Components, NumPy, Tinkercad],
           Courses: {
-                                JS: "GlobalMentoring",
-                                PY, SQL: "GlobalMentoring",
-                                C#: "Intec"
-                                Complete_web_development: "CodeCreator",
-                                mentor: "Ubaldo Acosta, Juan De la torre, 
-                                Joel Jiménez"
-                              }
+                      JS: "GlobalMentoring",
+                      PY, SQL: "GlobalMentoring",
+                      C#: "Intec"
+                      Complete_web_development: "CodeCreator",
+                      mentor(s): "Ubaldo Acosta, Juan De la torre, 
+                      Joel Jiménez"
+                    }
       
  ````
 <br>
