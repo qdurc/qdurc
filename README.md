@@ -20,14 +20,13 @@
 ```javascript
         const Edu = {
           pronouns: "he" | "him",
-          code: [Javascript, Typescript, HTML, CSS, Arduino, Python, SQL, C#],
+          code: [Javascript, Typescript, HTML, CSS, Python, SQL, C#],
           Courses: {
+                      HTML, CSS, JS: "Juan Pablo De la torre Valdez"
                       JS: "GlobalMentoring",
-                      PY, SQL: "GlobalMentoring",
-                      C#: "Intec"
+                      PY: "GlobalMentoring, Cisco",
+                      C#: "Intec",
                       Complete_web_development: "CodeCreator",
-                      mentor(s): "Ubaldo Acosta, Juan De la torre, 
-                      Joel Jiménez"
                     }
       
  ````
@@ -41,7 +40,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Boostrap" width="40" height="40"/>&nbsp;
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" title="Php" width="40" height="40"/>&nbsp;
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40"/>&nbsp;
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" 
             tittle="django" width="40" height="40"/>&nbsp;
