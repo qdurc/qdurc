@@ -20,7 +20,7 @@
 ```javascript
         const Edu = {
           pronouns: "he" | "him",
-          code: [Javascript, Typescript, HTML, CSS, Python, SQL, C#],
+          code: [Javascript, HTML, CSS, Python, SQL, C#],
           Courses: {
                       HTML, CSS, JS: "Juan Pablo De la torre Valdez"
                       JS: "GlobalMentoring",
