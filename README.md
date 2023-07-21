@@ -4,7 +4,7 @@
         <p><em>Software Enginner at <a href="https://www.intec.edu.do" target="_blank">INTEC</a><img src="https://media2.giphy.com/media/8t7lXR6Sep8zB6v7El/200w.webp?cid=ecf05e4723vqyravmmz4ioyu6pnn991rghmi6q4y61ekia14&rid=200w.webp&ct=g" width="35"></br>Intership at NOC - (Network Operation Center) <a href="https://www2.claro.com.do/empresas/" target="_blank">Claro DOM</a><img src="https://media4.giphy.com/media/l41YvpiA9uMWw5AMU/200w.webp?cid=ecf05e47cz41fzuym5z1et0o0lm6wr69nxtqooghpljgo6er&rid=200w.webp&ct=g" width="45"> 
         </em></p>
 </div>
-        
+<br>      
 <div align="center">
         <h3> Languages and Tools: </h3>
         <div>
