@@ -8,7 +8,7 @@
 <div align="center">
         <h3> Languages and Tools: </h3>
         <div>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="javaScript"                       width="40" height="40"/>&nbsp;
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-plain.svg" title="TypeScript"                       width="40" height="40"/>&nbsp;
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" width="40"                     height="40"/>&nbsp;
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" 
             tittle="django" width="40" height="40"/>&nbsp;
