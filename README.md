@@ -1,20 +1,30 @@
-<div id="header" align="center">
-        <img src="https://media4.giphy.com/media/K7StRcr7hagJpXROmb/200w.webp?cid=ecf05e472ovqux9936fa11rfkzlnunueykdi7s6xsjofsiqr&rid=200w.webp&ct=g"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div align="center">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1nc2IycjN3MjNrYmxzaG1jcmxxbnFncDYxdXY0aDlvN2FqcGFjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/51AhgeKNAamtcmcpGx/giphy.gif" alt="GIF" width="300"/>
         <h1>Eduardo Colon</h1>
-        <p><em>Software Engineer at <a href="https://www.intec.edu.do" target="_blank">INTEC</a><img src="https://media2.giphy.com/media/8t7lXR6Sep8zB6v7El/200w.webp?cid=ecf05e4723vqyravmmz4ioyu6pnn991rghmi6q4y61ekia14&rid=200w.webp&ct=g" width="35">
-        </em></p>
-</div>      
-<div align="center">
-        <h3> Languages and Tools: </h3>
-        <div>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" tittle="react" width="50" height="50"/>&nbsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" tittle="nodejs" width="50" height="50"/>&nbsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="boostrap" width="50" height="50"/>&nbsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" width="50" height="50"/>&nbsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" title="Django" width="50" height="50"/>&nbsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" tittle="MySQL" width="50" height="50"/>&nbsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" tittle="SQL Server" width="50" height="50"/>&nbsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" tittle="csharp" width="50" height="50"/>&nbsp;
+        <p><b>DR 🇩🇴</b></p> 
+        <p><em>Software Engineer at <a href="https://www.intec.edu.do" target="_blank">INTEC</a></em></p>
+        <p>Welcome to this repo where everything works... until it doesn't. 🛠️ If something fails, it's not a bug, it's a "surprise feature." 🥳</p>
+    </div>
+        <br>
+    <div align="center">
+        <h3>Languages and Tools:</h3>
+        <div class="languages-tools">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" height="70"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JS" height="70"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="70"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" height="70"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" height="70"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQL Server" height="70"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" height="70"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" height="70"/>
         </div>
-    </div> 
-  
+    </div>
+</body>
+</html>
