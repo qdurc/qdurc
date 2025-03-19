@@ -14,7 +14,7 @@
     </div>
         <br>
     <div align="center">
-        <h3>Languages and Tools:</h3>
+        <h3>Stack:</h3>
         <div class="languages-tools">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" height="70"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JS" height="70"/>
